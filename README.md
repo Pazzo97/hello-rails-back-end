@@ -1,24 +1,55 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Backend
 
-Things you may want to cover:
+This is a simple hello world api using rails.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Rails 7.0
 
-* Configuration
+## Frontend section
 
-* Database creation
+[Frontend react app](https://github.com/Pazzo97/hello-rails-front-end.git)
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get a local copy up and running follow these simple steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Prerequisites
 
-* Deployment instructions
+- Make sure you already installed Ruby version 3 or higher and Git.
 
-* ...
+### Setup
+
+Clone the repository using the below commands.
+
+- `https://github.com/Pazzo97/hello-rails-back-end.git`
+- `cd hello-rails-back-end`
+- `rails db:create db:migrate db:seed`
+- `rails server`
+
+### Usage
+
+Kindly modify the files as needed.
+
+## Author
+
+👤 **Patrick MUKUNZI**
+
+- GitHub: [@Patrick](https://github.com/Pazzo97/hello-rails-back-end)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Pazzo97/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
