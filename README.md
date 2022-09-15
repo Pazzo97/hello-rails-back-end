@@ -11,7 +11,7 @@ This is a simple hello world api using rails.
 
 ## Frontend section
 
-[Frontend react app](https://github.com/Pazzo97/hello-rails-front-end.git)
+[Frontend react app](https://github.com/Pazzo97/hello-react-front-end.git)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Kindly modify the files as needed.
 
 👤 **Patrick MUKUNZI**
 
-- GitHub: [@Patrick](https://github.com/Pazzo97/hello-rails-back-end)
+- GitHub: [@Patrick](https://github.com/Pazzo97)
 
 ## 🤝 Contributing
 
