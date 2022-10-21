@@ -2,12 +2,13 @@
 
 # Rails Backend
 
-This is a simple hello world api using rails.
+This is a simple hello world api using rails which displays greetings in different languages as you reload the page.
 
 ## Built With
 
 - Ruby
 - Rails 7.0
+- Postgres 1.1
 
 ## Frontend section
 
